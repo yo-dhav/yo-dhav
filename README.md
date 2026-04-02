@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Space / Galaxy Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,100:00d4ff&height=220&section=header&text=Uddhav%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=CSE%20Undergrad%20%7C%20Full-Stack%20Dev%20%7C%20Cybersecurity&descAlignY=60&descSize=15&descColor=b0c4ff" width="100%"/>
+<!-- Updated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,50:090979,100:00d4ff&height=220&section=header&text=Uddhav%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=CSE%20Undergrad%20%7C%20Full-Stack%20Dev%20%7C%20Cybersecurity&descAlignY=62&descSize=15&descColor=b0c4ff" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=CS+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -35,19 +35,24 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 
 ## 🛠️ Tech Stack
 
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Database & Infrastructure**
 
@@ -68,7 +73,7 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yo-dhav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yo-dhav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-dhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="180"/>
 
@@ -105,6 +110,6 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yo-dhav&color=7c3aed&style=for-the-badge&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,100:00d4ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,50:090979,100:00d4ff&height=120&section=footer" width="100%"/>
 
 </div>
