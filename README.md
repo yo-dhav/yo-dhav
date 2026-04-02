@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Banner / Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Uddhav%20Krishna&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CSE%20Undergrad%20%7C%20Full-Stack%20%7C%20Cybersecurity&descAlignY=58&descSize=16&descColor=a8d8ea" width="100%"/>
+<!-- Cyberpunk / Glitch Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a0a2e,100:000000&height=220&section=header&text=Uddhav%20Krishna&fontSize=52&fontColor=00ffcc&fontAlignY=40&stroke=00ffcc&strokeWidth=1&desc=CSE%20Undergrad%20%7C%20Full-Stack%20Dev%20%7C%20Cybersecurity&descAlignY=60&descSize=15&descColor=7b8cde" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=CS+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 - 🔐 Interested in **Cybersecurity** — exploring ethical hacking, CTFs & secure design
 - 🌱 Currently deepening my knowledge in system design & cloud infrastructure
 - ⚡ I believe in learning by doing — most of my repos are experiments gone right
-- 📫 Reach me at **uddhavkrishna151@gmail.com**
+- 📫 Reach me at **[your@email.com]**
 
 ---
 
@@ -70,13 +70,13 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 
 <img src="https://github-readme-stats.vercel.app/api?username=yo-dhav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-dhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yo-dhav&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -86,8 +86,8 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/uddhav-krishna-539bb6249/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uddhavkrishna151gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uddhav-krishna-539bb6249/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uddhavkrishna151@gmail.com)
 
 </div>
 
@@ -103,8 +103,8 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58A6FF&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=yo-dhav&color=00ffcc&style=for-the-badge&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a0a2e,100:000000&height=120&section=footer&fontColor=00ffcc&stroke=00ffcc&strokeWidth=1" width="100%"/>
 
 </div>
