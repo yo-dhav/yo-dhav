@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Updated Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020024,50:090979,100:00d4ff&height=220&section=header&text=Uddhav%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=CSE%20Undergrad%20%7C%20Full-Stack%20Dev%20%7C%20Cybersecurity&descAlignY=62&descSize=15&descColor=b0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,50:090979,100:00d4ff&height=220&section=header&text=Uddhav%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=CSE%20Undergrad%20%7C%20Full-Stack%20Dev%20%7C%20Cybersecurity&descAlignY=62&descSize=15&descColor=b0c4ff" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=CS+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -110,6 +110,6 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yo-dhav&color=7c3aed&style=for-the-badge&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020024,50:090979,100:00d4ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,50:090979,100:00d4ff&height=120&section=footer" width="100%"/>
 
 </div>
