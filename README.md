@@ -68,14 +68,13 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yo-dhav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yo-dhav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-dhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&cache_seconds=86400" height="180"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yo-dhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="180"/>
 
 </div>
 
