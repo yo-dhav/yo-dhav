@@ -76,7 +76,7 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yo-dhav&show_icons=true&theme=tokyonight&count_private=true&v=1" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uddhav Krishna&theme=tokyonight&v=1" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yo-dhav&theme=tokyonight&v=1" />
       </td>
     </tr>
   </table>
