@@ -81,7 +81,9 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
       </td>
     </tr>
   </table>
-
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yo-dhav&layout=compact&theme=tokyonight&v=1" /> 
+</div>
 
 ---
 
