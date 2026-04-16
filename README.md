@@ -8,9 +8,7 @@
 
 ---
 
-## 👋 About Me
 
-Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergraduate with a passion for building things and breaking them (ethically 😄).
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering**
 - 💻 I love building full-stack web apps — from UI to backend to deployment
