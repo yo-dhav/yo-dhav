@@ -26,8 +26,6 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 | 💻 Full-Stack Dev | 🔐 Cybersecurity | ☁️ Cloud & DevOps |
 |:---:|:---:|:---:|
 | React, Next.js, Node.js | Network Security, CTFs | Docker, Kubernetes |
-| REST APIs, Databases | Ethical Hacking basics | CI/CD, Linux |
-| TypeScript, Python | Secure code practices | PostgreSQL, Infra |
 
 ---
 
