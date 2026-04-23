@@ -67,6 +67,25 @@ Hey there! I'm **Uddhav Krishna**, a **Computer Science & Engineering** undergra
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yo-dhav&show_icons=true&theme=tokyonight&count_private=true&v=1" />
+      </td>
+      <td>
+        
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yo-dhav&theme=tokyonight&v=1" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yo-dhav&layout=compact&theme=tokyonight&v=1" /> 
+</div>
+
+---
 
 ## 🤝 Connect With Me
 
