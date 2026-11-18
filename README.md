@@ -2,6 +2,10 @@
 
 # Hi there, I'm Uddhav Krishna 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yo-dhav&label=Profile%20Views&color=00ADB5&style=flat-square" alt="Profile Views" />
+</p>
+
 <a href="https://github.com/yo-dhav">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=680&lines=Computer+Science+%26+Engineering;AI+%26+Intelligent+Systems+Builder;Full-Stack+Developer+%26+Problem+Solver;Passionate+about+Algorithms+%26+Cybersecurity" alt="Typing SVG" />
 </a>
@@ -14,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/yo-dhav/uddhav-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:uddhavkrishna151@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -25,31 +29,47 @@
 
 </div>
 
-## 🧠 About Me
+### 💻 System Terminal
 
-- 🎓 **Background:** Computer Science & Engineering undergraduate focusing on **AI, Intelligent Systems, and Full-Stack Engineering**.
-- 🔭 **Current Focus:** Building intelligent assistants, interactive algorithmic systems, and resilient web applications.
-- 💡 **Key Highlights:**
-  - Designed **SymphonyCare**, a conversational healthcare assistant with symptom-based specialist triage and automated scheduling.
-  - Implemented **SameGame AI**, an algorithmic strategy game engine with autonomous heuristic play.
-  - Explored low-level systems through **JavaVirtualFileExplorer** and cybersecurity CTF challenges.
-- 💬 **Ask me about:** Java, Python, Full-Stack Architecture (React / Node / SQL), AI Heuristics, and Security.
-- ⚡ **Fun Fact:** When I'm not writing code, I love diving into cybersecurity challenges and exploring cutting-edge tech.
+```bash
+uddhav@workstation:~$ ./sys_info.sh --profile --verbose
+[+] Initializing AI & Systems Environment... [OK]
+[+] Developer: Uddhav Krishna | Computer Science & Engineering Undergraduate
+[+] Primary Coordinates:
+    ├── SymphonyCare     -> Smart Conversational Healthcare Assistant (NLP + Triage)
+    ├── SameGame AI      -> Autonomous Game Heuristics & State-Space Search
+    ├── VirtualFileSys   -> Hierarchical OS Directory Simulator (Java OOP)
+    └── Traveline        -> Full-Stack Web Architecture
+[+] Security Audit: Kali Linux / Wireshark / Packet Analysis [ACTIVE]
+[+] Status: Available for High-Impact Software, AI & Systems Engineering Roles.
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-### 💻 Core Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
+- 🎓 **Education:** Computer Science & Engineering undergraduate passionate about **AI, Intelligent Systems, and Robust Software Engineering**.
+- 🔭 **Current Focus:** Engineering intelligent assistants, algorithmic game-solvers, and scalable web solutions.
+- 💡 **Key Highlights:**
+  - Architected **SymphonyCare**, a conversational healthcare assistant with symptom-based specialist triage and automated scheduling.
+  - Implemented **SameGame AI**, an algorithmic strategy engine featuring autonomous state-space search and smart hint heuristics.
+  - Explored operating systems internals via **JavaVirtualFileExplorer** and network protocols through cybersecurity CTFs.
+- 💬 **Ask me about:** Java, Python, Full-Stack Architecture (React / Node / SQL), AI Heuristics, and Security Analysis.
+
+---
+
+## 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+### ⚡ Interactive Tech Dock
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,react,next,nodejs,express,postgres,mysql,docker,kubernetes,linux,git,bash,postman,tailwind" alt="Tech Stack Dock" />
+</a>
+
+</div>
+
+<br/>
 
 ### 🤖 AI, Machine Learning & Algorithms
 <p>
@@ -60,17 +80,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-### 🌐 Full-Stack & Databases
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### 🛡️ DevOps, Systems & Cybersecurity
+### 🛡️ Systems, DevOps & Cybersecurity
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -91,6 +101,58 @@
 | **📁 [JavaVirtualFileExplorer](https://github.com/yo-dhav/JavaVirtualFileExplorer)** | Object-oriented virtual file management system simulating hierarchical directory structures and OS file operations. | `Java` `Data Structures` `OOP` | [Repository ↗](https://github.com/yo-dhav/JavaVirtualFileExplorer) |
 | **✈️ [Traveline-Travels](https://github.com/yo-dhav/Traveline-Travels)** | Full-stack travel booking & itinerary web application with responsive UI and modern state management. | `JavaScript` `Node.js` `Web` `Full-Stack` | [Repository ↗](https://github.com/yo-dhav/Traveline-Travels) |
 | **🌐 [Portfolio Website](https://github.com/yo-dhav/uddhav-portfolio)** | Personal developer portfolio highlighting software engineering projects, technical skills, and background. | `React` `CSS` `Responsive Design` | [Repository ↗](https://github.com/yo-dhav/uddhav-portfolio) |
+
+---
+
+## 🕹️ Interactive Easter Eggs & Developer Specs
+
+<details>
+  <summary><b>⚙️ Click to expand: Workstation & Developer Environment</b></summary>
+  <br/>
+
+  - **Primary OS:** Linux (Debian / Arch / Kali Linux for pentesting & analysis), Windows 11
+  - **Terminal & Shell:** Bash / Zsh, Tmux, Git CLI
+  - **Core IDEs:** VS Code, IntelliJ IDEA, Neovim
+  - **Toolbelt:** Docker Desktop, Postman, Wireshark, Burp Suite, MySQL Workbench
+</details>
+
+<details>
+  <summary><b>🧠 Click to expand: Algorithmic & Problem Solving Philosophy</b></summary>
+  <br/>
+
+  - **State-Space Tree Search:** Designed heuristic functions to evaluate branch depths in real-time game trees.
+  - **Data Structures:** Extensive experience in tree hierarchies (file systems), hash indexing, and graph traversal.
+  - **Software Architecture:** Strong proponent of modularity, separation of concerns (MVC), and clean documentation.
+</details>
+
+<details>
+  <summary><b>🎯 Click to expand: Current Engineering Goals for 2026</b></summary>
+  <br/>
+
+  - 🚀 Expand MLOps workflows with automated model evaluation and containerized cloud pipelines.
+  - 🌐 Deepen cloud orchestration knowledge with Kubernetes & Helm deployments.
+  - 🤝 Actively contribute to impactful open-source tools across the developer and AI ecosystem.
+</details>
+
+---
+
+## 📈 Contribution Rhythm & Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yo-dhav&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Uddhav's Contribution Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake Eater
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yo-dhav/yo-dhav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yo-dhav/yo-dhav/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/yo-dhav/yo-dhav/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
